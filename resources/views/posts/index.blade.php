@@ -1,7 +1,7 @@
 @extends('layouts.app')
 @section('title','Data Post')
 @section('content')
-<marquee bgcolor="black" ><font color="cyan" size="5">SAYA SEDANG BELAJAR MEMBUAT LARAVEL</font></marquee>
+<marquee bgcolor="black" type="border:solid px"><font color="cyan" size="5">SAYA SEDANG BELAJAR MEMBUAT LARAVEL</font></marquee>
 <div class="row">
             <div class="col-md-12">
                 <div>
